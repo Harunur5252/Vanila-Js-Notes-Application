@@ -110,8 +110,8 @@ class UI{
         const updateBtn =
             "<button type='button' class='btn btn-primary update-note'>update</button>"
         formElm.insertAdjacentHTML('beforeend', updateBtn)
-        header_3ELm.style.display='none'
-        cNBtnElm.style.display='none'
+        // header_3ELm.style.display='none'
+        // cNBtnElm.style.display='none'
         gbBtnElm.style.display='block'
         gbBtnElm.onclick=function(){
             location.reload()
