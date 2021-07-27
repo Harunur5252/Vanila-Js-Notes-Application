@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+.note{
+   background-color: chocolate;
+   box-shadow: 4px 4px 8px black,6px 6px 16px crimson;
+   height: 50px;
+}
+.box{
+    min-height: 20px;
+    min-width: 20px;
+    margin: 3px;
+    padding: 3px;
+    border: 1px solid green;
+    border-radius: 3% 3% 3% 3%;
+    background-color: black;
+    color: darkkhaki;
+    box-sizing: border-box;
+}
+.text{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: black;
+}
+.titleCl{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: black;
+}
+.newNote{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
+.fromTop{
+   margin-top: 33%;
+   margin-left: 27%;
+   color:red;
+   font-size: 25px;
+   font-weight: 400;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
